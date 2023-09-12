@@ -1,0 +1,46 @@
+body {
+    background-color: #010922;
+    ;
+    ; /* Replace with the desired color code */
+    color: white;
+    font: Outfit;
+    
+}
+
+.head{
+    font: outfit;
+    
+}
+
+h1{
+    font-weight: 700;
+    size: 64px;
+    line-height: 70.4px;
+}
+
+.profile-image {
+    width: 100px; /* Adjust the size of the profile picture */
+    height: 100px; /* Adjust the size of the profile picture */
+    border-radius: 50%; /* Make the profile picture round */
+    position: absolute;
+    top: -50px; /* Adjust the vertical position to center it */
+    left: calc(50% - 50px); /* Center horizontally */
+}
+
+.features{
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    color: white;
+    background-color: #312964;
+}
+
+.nft-btn{
+    background-color: #312964;
+    
+
+
+}
+
